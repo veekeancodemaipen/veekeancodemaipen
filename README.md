@@ -53,14 +53,6 @@
 - 📈 Staff of KAsset Investment Bootcamp 2
 - 🌍 Participant of CUEE SDGS 2026
 
-
----
-
-## 🛠️ Skills
-
-- 📊 **Skills:** Analysis · Marketing Strategy · Business Model · Financing · Project Management
-- 💻 **Tools:** Excel · Google Sheets · Google Docs · MS Office · Canva · Python
-
 ---
 
 ## 📫 Contact
