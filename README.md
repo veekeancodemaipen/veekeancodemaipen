@@ -1,6 +1,6 @@
 <h1 align="center"># Hello 👋 I'm Yossavee Adisornsuwan</h1>
 
-- ⚡ I'm currently studying Electrical Engineering at Chulalongkorn University (2024 - Present)
+- ⚡ I'm currently studying **Electrical Engineering** at Chulalongkorn University (CU Intania 108 | EE )
 - ✨ Engineering student with experience in business development, partnership coordination, and sponsor outreach
 - 🌱 I'm proactive, enjoy talking to people and building relationships, and always excited to learn new industries and business models
 - 📚 I'm interested in Business Development, Marketing Strategy, Financial Analysis, and Project Management
