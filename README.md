@@ -10,37 +10,23 @@
 
 ## 🏆 Competitions & Awards
 
-- 🎯 **INTerCSII Hackathon 2026 (Semi-Final Round)** — _Business Developer_
-  - Developed a **B2B SaaS business model and go-to-market strategy** for SHAC, an AI prompt governance platform, targeting digital marketing agencies with a tiered subscription and an innovative cyber insurance premium bundle.
-  - Projected financial feasibility reaching **103M THB in Year-5 net revenue** with an **18-month payback period**, validating the value proposition of saving clients up to **1,800 legal review hours** and **5M THB in crisis costs** annually.
-
-- 🔗 **Onchain Bootcamp (2nd Runner Up)** — _Business Developer_
-  - Co-developed **Debtdown**, a Web3-enabled marketplace concept to improve transparency and enable fractional participation in Thailand's NPL market of approximately **THB 1.2 trillion**.
-  - Defined the pre-NPL positioning through market research and translated insights into an **MVP-ready concept**, including user flow for repayment tracking and yield distribution.
-
-- 💰 **CUVI x KAsset Investment Bootcamp (1st Runner Up)** — _Investment Analyst_
-  - Collaborated with a team to design a **10-year THB 10M portfolio** using a **70/30 Core–Satellite allocation** and a three-phase strategy to balance risk and return.
-  - Analyzed macroeconomic indicators and business cycles to select assets such as the **S&P 500, REITs, and BTC**, projecting a terminal value of **THB 25.78M** and a **9.94% CAGR**.
-
-- 🌐 **Young Webmaster Camp 20** — _Web Marketing_
-  - Built an **end-to-end customer journey** for the online platform, mapping key touchpoints and funnel stages to guide marketing direction and user experience.
-  - Developed the **business model, market sizing, and finance plan**, defining target segments, revenue streams, cost structure, and core assumptions to validate feasibility.
-
-- 🍗 **CP CUP 2025 (POC Round)** — _Marketing_
-  - Conducted **competitor and customer analysis** for CP RTE Chicken, identifying key gaps in online visibility and retention drivers to inform strategic positioning.
-  - Developed the **Makro Metaverse Experience (Makro × Roblox)**, a gamified virtual Makro store featuring quests, mini-games, and redeemable coupons — with success metrics of **5,000 players in Week 1**, **+20% brand recall**, and **≥15% coupon redemption**.
+- 🎯 **INTerCSII Hackathon 2026** (Semi-Final Round) — _Business Developer_
+- 🔗 **Onchain Bootcamp 2025** (2nd Runner Up) — _Business Developer_
+- 💰 **CUVI x KAsset Investment Bootcamp 2024** (1st Runner Up) — _Investment Analyst_
+- 🍗 **CP CUP 2025** (POC Round) — _Marketing_
+- 🌐 **Young Webmaster Camp 20th** — _Web Marketing_
 
 ---
 
 ## ✨ Work Experience
 
-- 🎓 **Head of Inter-University Affairs Department** — Engineering Student Committee([@ECS-Chula](https://github.com/esc-chula)), Chulalongkorn University (Jul 2025 - Apr 2026)
+- 🎓 **Head of Inter-University Affairs Department** — Engineering Student Committee([@ECS-Chula](https://github.com/esc-chula)), Chulalongkorn University
   - Managed the **Inter-University Affairs team**, organizing and delivering inter-university events, including hackathons and CSR activities.
   - Managed **partner communications and event operations**, coordinating stakeholders, timelines, and staff workflows to ensure smooth delivery and strong outcomes.
 
-- 🚀 **Founder** — [SKR Academic Olympiad](https://www.instagram.com/skr_academic_olympiad/) (May 2023 - May 2024)
+- 🚀 **Founder** — [SKR Academic Olympiad](https://www.instagram.com/skr_academic_olympiad/)
   - **Spearheaded a team of peers** to launch an educational community aimed at democratizing access to Academic Olympiad (POSN) resources, providing mentorship and consultation to students both within and outside the school.
-  - Grew the community to **470+ followers** and successfully transitioned operations to the next generation of students, establishing a sustainable foundation that has since scaled the platform to over **1,100 followers**.
+  - Grew the community to **470+ followers** and successfully transitioned operations to the next generation of students, establishing a sustainable foundation that has since scaled the platform to over **1,000 followers**.
 
 ---
 
