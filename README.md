@@ -1,10 +1,12 @@
+<div align="center">
 # Hello 👋 I'm Yossavee Adisornsuwan
+<div>
 
 - ⚡ I'm currently studying Electrical Engineering at Chulalongkorn University (2024 - Present)
 - ✨ Engineering student with experience in business development, partnership coordination, and sponsor outreach
 - 🌱 I'm proactive, enjoy talking to people and building relationships, and always excited to learn new industries and business models
 - 📚 I'm interested in Business Development, Marketing Strategy, Financial Analysis, and Project Management
-- 📘 Please click here to view [my Resume](https://resume-yossavee-six.vercel.app/) — currently seeking a **BD internship** to support growth and execution
+- 📘 Please click here to view [my Resume](https://resume-yossavee-six.vercel.app/)
 
 ---
 
@@ -34,7 +36,7 @@
 
 ## ✨ Work Experience
 
-- 🎓 **Head of Inter-University Affairs Department** — Engineering Student Committee, Chulalongkorn University (Jul 2025 - Apr 2026)
+- 🎓 **Head of Inter-University Affairs Department** — Engineering Student Committee[@ECS-Chula](https://github.com/esc-chula), Chulalongkorn University (Jul 2025 - Apr 2026)
   - Managed the **Inter-University Affairs team**, organizing and delivering inter-university events, including hackathons and CSR activities.
   - Managed **partner communications and event operations**, coordinating stakeholders, timelines, and staff workflows to ensure smooth delivery and strong outcomes.
 
