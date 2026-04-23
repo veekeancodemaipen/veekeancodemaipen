@@ -38,7 +38,7 @@
   - Managed the **Inter-University Affairs team**, organizing and delivering inter-university events, including hackathons and CSR activities.
   - Managed **partner communications and event operations**, coordinating stakeholders, timelines, and staff workflows to ensure smooth delivery and strong outcomes.
 
-- 🚀 **Founder** — SKR Academic Olympiad (May 2023 - May 2024)
+- 🚀 **Founder** — [SKR Academic Olympiad](https://www.instagram.com/skr_academic_olympiad/) (May 2023 - May 2024)
   - **Spearheaded a team of peers** to launch an educational community aimed at democratizing access to Academic Olympiad (POSN) resources, providing mentorship and consultation to students both within and outside the school.
   - Grew the community to **470+ followers** and successfully transitioned operations to the next generation of students, establishing a sustainable foundation that has since scaled the platform to over **1,100 followers**.
 
@@ -46,27 +46,27 @@
 
 ## 🎯 Extracurriculars
 
-- 🎪 President of Modchomphu Hackathon 2025
+- 🎪 President of [Modchomphu Hackathon](https://www.instagram.com/modchomphu/) 2025
+- 📈 Business Planner of CU Blockchain Society ([CUBS](https://www.instagram.com/cubs.chula/))
 - 📋 Head Plan of CUEE Camp 3
-- 🎭 Head Stage of Gearfest 3rd
 - 🏕️ Head P'BAAN of Chula-Uttaradit Camp 17th
 - 🏕️ Head COOP of Chula-Uttaradit Camp 16th
 - 🏉 Head of Vendor Coordinator of Intania-Arch Unity Rugby 2025
-- 💦 Water Monitor of "สนุกสาด" Water Festival (Nitade × Arch × Intania)
+- 💦 Water Monitor of Sanooksard Water Festival (Nitade × Arch × Intania)
 - 💰 Finance of Group'S
 - 🤝 Sponsor of Chula Rayong 2025
-- 🌈 Sponsor of Songkarn × Pride Festival Chula
-- 🌱 Place of 4SAO CSR
+- 🌈 Sponsor of Songkarn × Pride Festival Chula 2025
+- 🌱 Place of 4SAO CSR 11th
 - 🎁 Supply & Welfare of FEcamp 18
 - 🎨 VCK of Fest by FECamp 18
 - 🎗️ Welfare of Vishnu Camp 23rd
-- 🏕️ COOP (Senior) of Larngear Camp 25
-- 🏕️ COOP (Year 1) of Larngear Camp 24
+- 🏕️ COOP of Larngear Camp 24-25
 - ⚙️ COOP of Gear League 6th
 - ⚽ COOP of 75th CU-TU Traditional Football Match
 - 🎯 Staff of Deklek 4 by Rotaract
 - 📈 Staff of KAsset Investment Bootcamp 2
 - 🌍 Participant of CUEE SDGS 2026
+
 
 ---
 
