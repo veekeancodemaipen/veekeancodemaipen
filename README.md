@@ -20,7 +20,7 @@
 
 ## ✨ Work Experience
 MAY 2026 - JUL 2026
-- 🎓 **Business Development Intern** — ([Bitkub Blockchain Technology](https://www.facebook.com/BitkubBlockchainTechnology))
+- 🎓 **Business Development Intern** — [Bitkub Blockchain Technology](https://www.facebook.com/BitkubBlockchainTechnology)
   - Currently working
 
 JUL 2025 - ARP 2026
