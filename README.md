@@ -14,7 +14,7 @@
 - 🔗 **Onchain Bootcamp 2025** (2nd Runner Up) — _Business Developer_
 - 💰 **CUVI x KAsset Investment Bootcamp 2024** (1st Runner Up) — _Investment Analyst_
 - 🍗 **CP CUP 2025** (POC Round) — _Marketing_
-- 🌐 **Young Webmaster Camp 20th** — _Web Marketing_
+- 🌐 **[Young Webmaster Camp 20th](https://ywc20.ywc.in.th/)** — _Web Marketing_
 
 ---
 
@@ -36,28 +36,37 @@ MAY 2023 - MAY 2024
 ---
 
 ## 🎯 Extracurriculars
-
+**Activity in Chula Engineering**
 - 🎪 President of [Modchomphu Hackathon](https://www.instagram.com/modchomphu/) 2025
-- 📈 Business Planner of CU Blockchain Society ([CUBS](https://www.instagram.com/cubs.chula/))
 - 📋 Head Plan of CUEE Camp 3
-- 🏕️ Head P'BAAN of Chula-Uttaradit Camp 17th
-- 🏕️ Head COOP of Chula-Uttaradit Camp 16th
 - 🏉 Head of Vendor Coordinator of Intania-Arch Unity Rugby 2025
 - 💦 Water Monitor of Sanooksard Water Festival (Nitade × Arch × Intania)
-- 💰 Finance of Group'S
-- 🤝 Sponsor of Chula Rayong 2025
-- 🌈 Sponsor of Songkarn × Pride Festival Chula 2025
+- 🏕️ COOP of Larngear Camp 24-25
+- ⚙️ COOP of Gear League 6th
+- 💰 Finance of Intania Group'S
 - 🌱 Place of 4SAO CSR 11th
 - 🎁 Supply & Welfare of FEcamp 18
 - 🎨 VCK of Fest by FECamp 18
 - 🎗️ Welfare of Vishnu Camp 23rd
-- 🏕️ COOP of Larngear Camp 24-25
-- ⚙️ COOP of Gear League 6th
-- ⚽ COOP of 75th CU-TU Traditional Football Match
-- 🎯 Staff of Deklek 4 by Rotaract
-- 📈 Staff of KAsset Investment Bootcamp 2
 - 🌍 Participant of CUEE SDGS 2026
 
+**Club in CU**
+- 📈 Business Planner of CU Blockchain Society ([CUBS](https://www.instagram.com/cubs.chula/))
+
+**SGCU**
+- 🌈 Sponsor of Songkarn × Pride Festival Chula 2025
+- ⚽ COOP of 75th CU-TU Traditional Football Match
+
+**Camp in CU**
+- 🏕️ Head P'BAAN of Chula-Uttaradit Camp 17th
+- 🏕️ Head COOP of Chula-Uttaradit Camp 16th
+- 🎯 Staff of Deklek 4 by Rotaract
+- 🤝 Sponsor of Chula Rayong 2025
+
+
+**Outside University Work**
+- 📈 Staff of KAsset Investment Bootcamp 2
+- 🌐 P'BAAN of [Junior Webmaster Camp 14](https://jwc.in.th/)
 ---
 
 ## 📫 Contact
