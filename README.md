@@ -19,11 +19,16 @@
 ---
 
 ## ✨ Work Experience
+MAY 2026 - JUL 2026
+- 🎓 **Business Development Intern** — ([Bitkub Blockchain Technology](https://www.facebook.com/BitkubBlockchainTechnology))
+  - Currently working
 
+JUL 2025 - ARP 2026
 - 🎓 **Head of Inter-University Affairs Department** — Engineering Student Committee([@ECS-Chula](https://github.com/esc-chula)), Chulalongkorn University
   - Managed the **Inter-University Affairs team**, organizing and delivering inter-university events, including hackathons and CSR activities.
   - Managed **partner communications and event operations**, coordinating stakeholders, timelines, and staff workflows to ensure smooth delivery and strong outcomes.
 
+MAY 2023 - MAY 2024
 - 🚀 **Founder** — [SKR Academic Olympiad](https://www.instagram.com/skr_academic_olympiad/)
   - **Spearheaded a team of peers** to launch an educational community aimed at democratizing access to Academic Olympiad (POSN) resources, providing mentorship and consultation to students both within and outside the school.
   - Grew the community to **470+ followers** and successfully transitioned operations to the next generation of students, establishing a sustainable foundation that has since scaled the platform to over **1,000 followers**.
